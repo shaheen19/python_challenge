@@ -1,2 +1,2 @@
 # python_challenge
-Homework_python
+Gaming data analysis using python
